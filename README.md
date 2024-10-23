@@ -65,16 +65,16 @@ Run your program several times for different number of lines of your dataset, N,
 Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot the running time (in seconds) and rate (in seconds per node) vs. N for each case, comparing the BST and AVL Trees (i.e., two lines per graph). Take a screenshot of your graph and put them here by modifying this file, committing, and pushing it to this repository.
 
 BST vs. AVL Tree running time (insertion):
-(insert here)
+<img width="599" alt="Screenshot 2024-10-23 at 12 40 11 PM" src="https://github.com/user-attachments/assets/b4cfd756-2aca-4d0c-ba15-4384520e0de2">
 
 BST vs. AVL Tree running time (search):
-(insert here)
+<img width="601" alt="Screenshot 2024-10-23 at 12 40 17 PM" src="https://github.com/user-attachments/assets/d1232877-dcee-4e67-b462-7e81f53738ba">
 
 BST vs. AVL Tree running rate (insertion):
-(insert here)
+<img width="602" alt="Screenshot 2024-10-23 at 12 42 27 PM" src="https://github.com/user-attachments/assets/b818502b-ba93-488f-8d8a-100076e21d6c">
 
 BST vs. AVL Tree running rate (search):
-(insert here)
+<img width="598" alt="Screenshot 2024-10-23 at 12 40 37 PM" src="https://github.com/user-attachments/assets/f37f69eb-e98f-4857-b595-14b22d0c7fc7">
 
 ## Submission:
 
