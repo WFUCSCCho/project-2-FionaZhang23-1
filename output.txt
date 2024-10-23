@@ -1,0 +1,83 @@
+Number of lines: 100
+BST Sorted Insert Time: Number of lines: 100
+BST Sorted Insert Time: Number of lines: 100
+BST Sorted Insert Time: 0.000450 s
+BST Randomized Insert Time: 0.000030 s
+AVL Sorted Insert Time: 0.000225 s
+AVL Randomized Insert Time: 0.000049 s
+BST Sorted Search Time: 0.000162 s
+BST Randomized Search Time: 0.000036 s
+AVL Sorted Search Time: 0.000053 s
+AVL Randomized Search Time: 0.000024 s
+Number of lines: 200
+BST Sorted Insert Time: 0.000759 s
+BST Randomized Insert Time: 0.000035 s
+AVL Sorted Insert Time: 0.000329 s
+AVL Randomized Insert Time: 0.000101 s
+BST Sorted Search Time: 0.000369 s
+BST Randomized Search Time: 0.000029 s
+AVL Sorted Search Time: 0.000045 s
+AVL Randomized Search Time: 0.000034 s
+Number of lines: 300
+BST Sorted Insert Time: 0.000498 s
+BST Randomized Insert Time: 0.000035 s
+AVL Sorted Insert Time: 0.000286 s
+AVL Randomized Insert Time: 0.000117 s
+BST Sorted Search Time: 0.000341 s
+BST Randomized Search Time: 0.000040 s
+AVL Sorted Search Time: 0.000039 s
+AVL Randomized Search Time: 0.000038 s
+Number of lines: 400
+BST Sorted Insert Time: 0.000673 s
+BST Randomized Insert Time: 0.000027 s
+AVL Sorted Insert Time: 0.000480 s
+AVL Randomized Insert Time: 0.000166 s
+BST Sorted Search Time: 0.000297 s
+BST Randomized Search Time: 0.000021 s
+AVL Sorted Search Time: 0.000051 s
+AVL Randomized Search Time: 0.000036 s
+Number of lines: 500
+BST Sorted Insert Time: 0.001056 s
+BST Randomized Insert Time: 0.000043 s
+AVL Sorted Insert Time: 0.000621 s
+AVL Randomized Insert Time: 0.000058 s
+BST Sorted Search Time: 0.000394 s
+BST Randomized Search Time: 0.000039 s
+AVL Sorted Search Time: 0.000192 s
+AVL Randomized Search Time: 0.000091 s
+Number of lines: 600
+BST Sorted Insert Time: 0.000598 s
+BST Randomized Insert Time: 0.000040 s
+AVL Sorted Insert Time: 0.000470 s
+AVL Randomized Insert Time: 0.000204 s
+BST Sorted Search Time: 0.000406 s
+BST Randomized Search Time: 0.000032 s
+AVL Sorted Search Time: 0.000093 s
+AVL Randomized Search Time: 0.000050 s
+Number of lines: 700
+BST Sorted Insert Time: 0.000651 s
+BST Randomized Insert Time: 0.000040 s
+AVL Sorted Insert Time: 0.000602 s
+AVL Randomized Insert Time: 0.000258 s
+BST Sorted Search Time: 0.000466 s
+BST Randomized Search Time: 0.000038 s
+AVL Sorted Search Time: 0.000114 s
+AVL Randomized Search Time: 0.000041 s
+Number of lines: 800
+BST Sorted Insert Time: 0.000543 s
+BST Randomized Insert Time: 0.000047 s
+AVL Sorted Insert Time: 0.000561 s
+AVL Randomized Insert Time: 0.000203 s
+BST Sorted Search Time: 0.000357 s
+BST Randomized Search Time: 0.000041 s
+AVL Sorted Search Time: 0.000119 s
+AVL Randomized Search Time: 0.000043 s
+Number of lines: 900
+BST Sorted Insert Time: 0.001193 s
+BST Randomized Insert Time: 0.000046 s
+AVL Sorted Insert Time: 0.000642 s
+AVL Randomized Insert Time: 0.000079 s
+BST Sorted Search Time: 0.000471 s
+BST Randomized Search Time: 0.000043 s
+AVL Sorted Search Time: 0.000139 s
+AVL Randomized Search Time: 0.000046 s
